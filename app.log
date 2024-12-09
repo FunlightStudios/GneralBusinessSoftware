@@ -1,0 +1,134 @@
+2024-12-06 20:00:41,827 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:04:17,601 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:06:07,723 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:06:13,125 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: jerry
+2024-12-06 20:08:27,818 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:08:44,591 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-06 20:10:43,730 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:10:48,443 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: jerry
+2024-12-06 20:13:15,956 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:14:50,508 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: jerry. Noch 4 Versuch(e) übrig
+2024-12-06 20:15:00,568 - __main__ - INFO - Application initialized successfully
+2024-12-06 20:15:08,863 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: jerry. Noch 4 Versuch(e) übrig
+2024-12-06 20:16:52,686 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: jerry. Noch 3 Versuch(e) übrig
+2024-12-06 20:31:02,815 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: jerry. Noch 2 Versuch(e) übrig
+2024-12-07 02:13:25,904 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:15:19,131 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:19:44,379 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:20:03,058 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:20:15,762 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:20:30,157 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:20:58,909 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:21:18,283 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:21:59,766 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:22:24,375 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:23:16,751 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:23:26,703 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: sda. Noch 4 Versuch(e) übrig
+2024-12-07 02:25:07,046 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:25:14,520 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: ere. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 02:25:20,185 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: ere. 
+ Noch 3 Versuch(e) übrig
+2024-12-07 02:25:21,598 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: ere. 
+ Noch 2 Versuch(e) übrig
+2024-12-07 02:25:22,126 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: ere. 
+ Noch 1 Versuch(e) übrig
+2024-12-07 02:25:22,543 - ui.login_window - WARNING - Account gesperrt für Benutzer: ere wegen zu vieler Fehlversuche
+2024-12-07 02:25:50,097 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:25:52,526 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 02:25:54,373 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 3 Versuch(e) übrig
+2024-12-07 02:25:55,102 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 2 Versuch(e) übrig
+2024-12-07 02:25:55,582 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 1 Versuch(e) übrig
+2024-12-07 02:25:56,095 - ui.login_window - WARNING - Account gesperrt für Benutzer: dwq wegen zu vieler Fehlversuche
+2024-12-07 02:26:22,683 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:26:26,784 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 02:26:27,790 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 3 Versuch(e) übrig
+2024-12-07 02:26:28,098 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 2 Versuch(e) übrig
+2024-12-07 02:26:28,271 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: dwq. 
+ Noch 1 Versuch(e) übrig
+2024-12-07 02:26:28,441 - ui.login_window - WARNING - Account gesperrt für Benutzer: dwq wegen zu vieler Fehlversuche
+2024-12-07 02:26:35,818 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:26:58,697 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:27:07,209 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 02:27:08,675 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:29:28,041 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:29:37,442 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:36:04,906 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:36:18,507 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:45:12,475 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:45:21,912 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:49:09,186 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:49:15,986 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:52:12,256 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:52:20,887 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:54:53,753 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:55:00,322 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:55:02,761 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:55:11,259 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:55:12,849 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:55:14,471 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:55:37,851 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:55:50,652 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:56:23,478 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:56:29,710 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:56:44,233 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:56:49,786 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 02:56:54,356 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:59:39,137 - __main__ - INFO - Application initialized successfully
+2024-12-07 02:59:52,107 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 02:59:55,683 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 03:01:03,595 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:01:10,087 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 03:07:04,032 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:07:10,051 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 03:07:12,983 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 3 Versuch(e) übrig
+2024-12-07 03:07:13,150 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 2 Versuch(e) übrig
+2024-12-07 03:07:13,296 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 1 Versuch(e) übrig
+2024-12-07 03:07:13,458 - ui.login_window - WARNING - Account gesperrt für Benutzer: Jerry wegen zu vieler Fehlversuche
+2024-12-07 03:10:03,405 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:10:10,057 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 03:10:12,476 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 3 Versuch(e) übrig
+2024-12-07 03:10:16,543 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 2 Versuch(e) übrig
+2024-12-07 03:10:33,669 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:10:39,209 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 4 Versuch(e) übrig
+2024-12-07 03:10:43,759 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 3 Versuch(e) übrig
+2024-12-07 03:10:45,606 - ui.login_window - WARNING - Fehlgeschlagener Login-Versuch für Benutzer: Jerry. 
+ Noch 2 Versuch(e) übrig
+2024-12-07 03:11:51,698 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:11:58,337 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 03:20:36,086 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:22:27,707 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:22:35,691 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 03:26:53,132 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:27:02,480 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 03:27:51,252 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:27:57,857 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:28:04,846 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 03:32:34,326 - __main__ - INFO - Application initialized successfully
+2024-12-07 03:32:42,276 - ui.login_window - INFO - Erfolgreicher Login für Benutzer: Jerry
+2024-12-07 15:44:49,091 - __main__ - ERROR - Database initialization failed: Failed to connect to MariaDB: 2059 (HY000): Authentication plugin 'auth_gssapi_client' cannot be loaded: Das angegebene Modul wurde nicht gefunden.
+
+2024-12-08 23:20:10,415 - __main__ - ERROR - Database initialization failed: Failed to connect to MariaDB: 2059 (HY000): Authentication plugin 'auth_gssapi_client' cannot be loaded: Das angegebene Modul wurde nicht gefunden.
+
+2024-12-08 23:21:24,895 - __main__ - ERROR - Database initialization failed: Failed to connect to MariaDB: 2059 (HY000): Authentication plugin 'auth_gssapi_client' cannot be loaded: Das angegebene Modul wurde nicht gefunden.
+
+2024-12-08 23:21:34,383 - __main__ - ERROR - Database initialization failed: Failed to connect to MariaDB: 2059 (HY000): Authentication plugin 'auth_gssapi_client' cannot be loaded: Das angegebene Modul wurde nicht gefunden.
+
