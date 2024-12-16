@@ -1,5 +1,8 @@
 # Gaming Business Software
 
+# ⚠️ Work in Progress
+This project is under active development and not production-ready yet.
+
 Eine moderne Business-Software für Gaming-Softwareentwicklungsfirmen mit Dark Mode Design.
 
 ## Features
